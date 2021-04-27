@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "878475453007",
+    "project_id": "store-9e170",
+    "storage_bucket": "store-9e170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878475453007:android:cebb008e8956b824c7003a",
+        "android_client_info": {
+          "package_name": "co.nazim.task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878475453007-6ap1mk8sbgm78dkd2m9pa7u4spejih04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANr_bVYYVoD2FRhotJ1IPt-92Vt3HbSOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878475453007-6ap1mk8sbgm78dkd2m9pa7u4spejih04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878475453007:android:4c71f3ee7f89b15fc7003a",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878475453007-6ap1mk8sbgm78dkd2m9pa7u4spejih04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANr_bVYYVoD2FRhotJ1IPt-92Vt3HbSOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878475453007-6ap1mk8sbgm78dkd2m9pa7u4spejih04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
